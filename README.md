@@ -7,3 +7,5 @@ teste repo
     - 3rd level  
 
 New modification needed
+
+[link to google](http://www.google.com)
